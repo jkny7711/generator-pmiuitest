@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "John Kim",
+      "authorEmail": "jkny771@yahoo.com",
+      "authorUrl": ""
+    }
+  }
+}
