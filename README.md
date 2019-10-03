@@ -1,0 +1,2 @@
+# generator-pmiuitest
+generator test
